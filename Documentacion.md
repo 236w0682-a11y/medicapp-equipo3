@@ -2,8 +2,10 @@
 
 Este documento reúne la estructura de la base de datos, los pasos para levantar el proyecto en servidor local o hosting y las cuentas listas para probar el sistema clínico.
 
-**Desarrollado por:** Equipo 3 (Agrega aquí los nombres de los integrantes)  
-**Carrera:** Ingeniería en Sistemas Computacionales — (Agrega tu semestre e institución)
+**Desarrollado por:** Equipo 3 Aracely Feliciano Juárez
+                               Estefania Suarez Ramos
+                               Karol Aimee Zarate Perez
+**Carrera:** Ingeniería en Sistemas Computacionales — 7° Semestre 
 
 ---
 
