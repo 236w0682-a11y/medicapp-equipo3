@@ -109,7 +109,7 @@ htdocs/
 
 ## 👨‍💻 Créditos
 
-Desarrollado por **Equipo 3 — MedicApp**.
+##Desarrollado por **Equipo 3 — MedicApp**.
 **Aracely**
 **Estefania**
 **Karol Aimee**
