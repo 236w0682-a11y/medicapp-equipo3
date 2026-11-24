@@ -106,10 +106,9 @@ htdocs/
 4. **Acceso:** Abre tu navegador en la URL de tu servidor local (`http://localhost/medicapp/`) o en tu dominio alojado.
 
 ---
-
-## 👨‍💻 Créditos
+👨‍💻 Créditos
 
 ##Desarrollado por **Equipo 3 — MedicApp**.
-**Aracely**
-**Estefania**
-**Karol Aimee**
+**Aracely
+**Estefania
+**Karol Aimee
