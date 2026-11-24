@@ -109,6 +109,6 @@ htdocs/
 👨‍💻 Créditos
 
 Desarrollado por **Equipo 3 — MedicApp**.
-Aracely
-Estefania
-Karol Aimee
+Aracely, 
+Estefania, 
+Karol Aimee, 
